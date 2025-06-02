@@ -1,0 +1,4 @@
+#Mon Jun 02 14:58:46 IST 2025
+base.0=E\:\\Flutter Project\\Matchbox App\\matchbox_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

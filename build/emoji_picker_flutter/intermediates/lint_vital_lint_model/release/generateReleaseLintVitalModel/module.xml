@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\RY\AppData\Local\Pub\Cache\hosted\pub.dev\emoji_picker_flutter-4.3.0\android"
+    name=":emoji_picker_flutter"
+    type="LIBRARY"
+    maven="com.fintasys.emoji_picker_flutter:emoji_picker_flutter:1.0-SNAPSHOT"
+    agpVersion="8.7.0"
+    buildFolder="E:\Flutter Project\Matchbox App\matchbox_app\build\emoji_picker_flutter"
+    bootClassPath="C:\Users\RY\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\RY\AppData\Local\Android\sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

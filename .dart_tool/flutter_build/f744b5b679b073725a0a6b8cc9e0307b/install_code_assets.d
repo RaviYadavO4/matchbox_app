@@ -1,0 +1,1 @@
+ E:\\Flutter\ Project\\Matchbox\ App\\matchbox_app\\.dart_tool\\flutter_build\\f744b5b679b073725a0a6b8cc9e0307b\\native_assets.json: 

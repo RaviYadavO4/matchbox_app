@@ -1,0 +1,27 @@
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.2.0-0 C:\Users\RY\.gradle\caches\8.10.2\transforms\0ee94761d3a7b3d3f7f1c41ce9c96b9a\transformed\jetified-window-java-1.2.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-lifecycle-livedata-core-ktx-2.7.0-1 C:\Users\RY\.gradle\caches\8.10.2\transforms\1a319241613c87d93fbb8f17c980234a\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-activity-1.8.1-2 C:\Users\RY\.gradle\caches\8.10.2\transforms\1f9458788a908615ec6973e44921b157\transformed\jetified-activity-1.8.1\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.2.0-3 C:\Users\RY\.gradle\caches\8.10.2\transforms\2066453da1bcdd734e734c74c593a5ed\transformed\jetified-window-1.2.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-profileinstaller-1.3.1-4 C:\Users\RY\.gradle\caches\8.10.2\transforms\3e5d94b3600ec23f533074c59062e85f\transformed\jetified-profileinstaller-1.3.1\res
+io.flutter.plugins.pathprovider.path_provider_android-lifecycle-livedata-core-2.7.0-5 C:\Users\RY\.gradle\caches\8.10.2\transforms\4ab3e32fbbb215132e4ef1f3a5a6b7e6\transformed\lifecycle-livedata-core-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-lifecycle-viewmodel-savedstate-2.7.0-6 C:\Users\RY\.gradle\caches\8.10.2\transforms\4ef666be39a278a47961b4f97fa6fc46\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-startup-runtime-1.1.1-7 C:\Users\RY\.gradle\caches\8.10.2\transforms\585022737e7ff909a0c6a874104c583e\transformed\jetified-startup-runtime-1.1.1\res
+io.flutter.plugins.pathprovider.path_provider_android-lifecycle-viewmodel-2.7.0-8 C:\Users\RY\.gradle\caches\8.10.2\transforms\66a50a95556af6a2cb255a768bd42029\transformed\lifecycle-viewmodel-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-savedstate-1.2.1-9 C:\Users\RY\.gradle\caches\8.10.2\transforms\77f5354769174d221d560f3a417dc232\transformed\jetified-savedstate-1.2.1\res
+io.flutter.plugins.pathprovider.path_provider_android-lifecycle-runtime-2.7.0-10 C:\Users\RY\.gradle\caches\8.10.2\transforms\88d89fc7b530de56e7a369a9fb5879e1\transformed\lifecycle-runtime-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-fragment-1.7.1-11 C:\Users\RY\.gradle\caches\8.10.2\transforms\91276fc160a7ee219f0385281a1f2bc7\transformed\fragment-1.7.1\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-core-ktx-1.13.1-12 C:\Users\RY\.gradle\caches\8.10.2\transforms\960eba1d1d9bb8cb57902c7023dc4fcd\transformed\jetified-core-ktx-1.13.1\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-lifecycle-process-2.7.0-13 C:\Users\RY\.gradle\caches\8.10.2\transforms\b336bb0a853362132e5d116df6ea5e71\transformed\jetified-lifecycle-process-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-tracing-1.2.0-14 C:\Users\RY\.gradle\caches\8.10.2\transforms\be2c8f3d68153129f981892d23de00f9\transformed\jetified-tracing-1.2.0\res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.13.1-15 C:\Users\RY\.gradle\caches\8.10.2\transforms\d8ff510bd83a8d66ddb11b00a8847690\transformed\core-1.13.1\res
+io.flutter.plugins.pathprovider.path_provider_android-core-runtime-2.2.0-16 C:\Users\RY\.gradle\caches\8.10.2\transforms\db470b1d4bfd1dea84a96965cd5d5caf\transformed\core-runtime-2.2.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-core-1.0.0-17 C:\Users\RY\.gradle\caches\8.10.2\transforms\dc776810e82de1f16134147322ee5c91\transformed\jetified-core-1.0.0\res
+io.flutter.plugins.pathprovider.path_provider_android-lifecycle-livedata-2.7.0-18 C:\Users\RY\.gradle\caches\8.10.2\transforms\e21286c6c767c77727f77e946cdfb55a\transformed\lifecycle-livedata-2.7.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.4.0-19 C:\Users\RY\.gradle\caches\8.10.2\transforms\ebda06468b65218fdb74a05519d6eb14\transformed\jetified-annotation-experimental-1.4.0\res
+io.flutter.plugins.pathprovider.path_provider_android-main-20 C:\Users\RY\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.17\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-21 C:\Users\RY\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.17\android\src\release\res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-22 E:\Flutter Project\Matchbox App\matchbox_app\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-23 E:\Flutter Project\Matchbox App\matchbox_app\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-24 E:\Flutter Project\Matchbox App\matchbox_app\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-25 E:\Flutter Project\Matchbox App\matchbox_app\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-release-26 E:\Flutter Project\Matchbox App\matchbox_app\build\path_provider_android\intermediates\merged_res\release\mergeReleaseResources

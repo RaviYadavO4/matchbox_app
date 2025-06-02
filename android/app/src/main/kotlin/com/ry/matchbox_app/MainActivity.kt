@@ -1,0 +1,5 @@
+package com.ry.matchbox_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
